@@ -1,0 +1,29 @@
+.wrapper div{
+    width: 200px;
+    height: 200px;
+    border: 1px solid grey;
+    margin: 3px;
+    color: aliceblue;
+    font-size: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.active{
+    background: aqua;
+}
+.red{
+    background: red;
+}
+.yellow{
+    background: yellow;
+}
+.black{
+    background: black;
+}
+.aqua{
+    background: aqua;
+}
+.green{
+    background: green;
+}
